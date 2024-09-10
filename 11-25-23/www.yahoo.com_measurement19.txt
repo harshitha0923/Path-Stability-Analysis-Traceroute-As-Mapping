@@ -1,0 +1,31 @@
+traceroute to www.yahoo.com (69.147.65.252), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  1.787 ms  1.702 ms  1.654 ms
+ 2  10.0.0.1 (10.0.0.1)  22.451 ms  22.407 ms  22.367 ms
+ 3  96.120.62.169 (96.120.62.169)  22.323 ms  22.282 ms  22.240 ms
+ 4  po-306-1234-rur202.pittsburgh.pa.pitt.comcast.net (96.110.215.137)  28.390 ms  28.350 ms  28.310 ms
+ 5  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  28.202 ms  21.954 ms  28.114 ms
+ 6  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  26.410 ms  28.969 ms  28.889 ms
+ 7  ae-7.bar1.Pittsburgh3.Level3.net (4.68.106.85)  53.373 ms  22.665 ms  28.353 ms
+ 8  * * *
+ 9  YAHOO-INC.ear2.Chicago2.Level3.net (4.15.84.226)  59.223 ms  59.208 ms YAHOO-INC.ear3.Chicago2.Level3.net (4.16.38.190)  55.154 ms
+10  et34.bas3-1-edg.cha.yahoo.com (74.6.224.29)  55.198 ms et32.bas2-1-edg.cha.yahoo.com (74.6.224.21)  55.213 ms  55.195 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

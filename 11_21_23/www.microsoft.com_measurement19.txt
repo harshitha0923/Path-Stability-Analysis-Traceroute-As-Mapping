@@ -1,0 +1,31 @@
+traceroute to www.microsoft.com (104.101.201.164), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  1.526 ms  1.452 ms  1.412 ms
+ 2  10.0.0.1 (10.0.0.1)  11.603 ms  11.566 ms  11.528 ms
+ 3  96.120.62.169 (96.120.62.169)  25.900 ms  25.863 ms  25.826 ms
+ 4  po-306-1233-rur201.pittsburgh.pa.pitt.comcast.net (96.110.215.125)  18.204 ms  24.244 ms  24.206 ms
+ 5  po-2-rur202.pittsburgh.pa.pitt.comcast.net (162.151.152.210)  25.681 ms  25.646 ms  25.610 ms
+ 6  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  23.164 ms  23.797 ms  18.788 ms
+ 7  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  25.933 ms  21.849 ms  14.036 ms
+ 8  50.216.209.234 (50.216.209.234)  29.620 ms  29.589 ms  29.566 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

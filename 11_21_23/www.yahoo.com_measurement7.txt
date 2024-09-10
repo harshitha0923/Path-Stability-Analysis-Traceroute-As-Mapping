@@ -1,0 +1,16 @@
+traceroute to www.yahoo.com (74.6.231.21), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  2.442 ms  2.359 ms  2.314 ms
+ 2  10.0.0.1 (10.0.0.1)  6.097 ms  6.248 ms  6.206 ms
+ 3  96.120.62.169 (96.120.62.169)  19.269 ms  19.229 ms  19.188 ms
+ 4  po-306-1234-rur202.pittsburgh.pa.pitt.comcast.net (96.110.215.137)  19.121 ms  19.082 ms  19.039 ms
+ 5  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  18.997 ms  18.955 ms  18.914 ms
+ 6  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  24.083 ms  19.175 ms  19.151 ms
+ 7  ae-7.bar1.Pittsburgh3.Level3.net (4.68.106.85)  26.065 ms  22.000 ms  16.421 ms
+ 8  * * *
+ 9  YAHOO-INC.ear2.Chicago2.Level3.net (4.15.84.226)  38.436 ms  38.421 ms YAHOO-INC.ear3.Chicago2.Level3.net (4.16.38.190)  42.309 ms
+10  ae-7.pat2.nez.yahoo.com (209.191.64.214)  63.036 ms ae-5.pat1.nez.yahoo.com (209.191.64.212)  52.134 ms ae-0.pat2.nez.yahoo.com (209.191.64.216)  58.882 ms
+11  et-19-1-7.msr1.ne1.yahoo.com (216.115.105.29)  55.543 ms et-19-1-1.msr1.ne1.yahoo.com (216.115.105.183)  47.567 ms et-19-1-1.msr2.ne1.yahoo.com (209.191.65.119)  45.531 ms
+12  et-19-0-0.clr1-a-gdc.ne1.yahoo.com (98.138.97.25)  55.507 ms et-0-1-0.clr2-a-gdc.ne1.yahoo.com (98.138.97.75)  47.600 ms et-0-0-0.clr1-a-gdc.ne1.yahoo.com (98.138.97.63)  43.452 ms
+13  lo0.fab4-2-gdc.ne1.yahoo.com (98.138.51.3)  53.373 ms lo0.fab2-2-gdc.ne1.yahoo.com (98.138.51.1)  41.385 ms lo0.fab4-2-gdc.ne1.yahoo.com (98.138.51.3)  54.474 ms
+14  usw1-1-lbd.ne1.yahoo.com (98.138.97.156)  54.461 ms  51.316 ms  48.118 ms
+15  media-router-fp74.prod.media.vip.ne1.yahoo.com (74.6.231.21)  48.107 ms  53.224 ms  53.199 ms

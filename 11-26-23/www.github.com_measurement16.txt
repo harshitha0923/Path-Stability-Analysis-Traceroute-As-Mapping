@@ -1,0 +1,31 @@
+traceroute to www.github.com (140.82.114.4), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  1.045 ms  0.998 ms  0.985 ms
+ 2  10.0.0.1 (10.0.0.1)  11.833 ms  12.260 ms  11.810 ms
+ 3  96.120.62.169 (96.120.62.169)  25.264 ms  20.993 ms  25.240 ms
+ 4  po-306-1233-rur201.pittsburgh.pa.pitt.comcast.net (96.110.215.125)  26.419 ms  26.407 ms  26.393 ms
+ 5  po-2-rur202.pittsburgh.pa.pitt.comcast.net (162.151.152.210)  26.379 ms  26.367 ms  26.355 ms
+ 6  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  26.343 ms  23.786 ms  23.764 ms
+ 7  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  23.826 ms  17.802 ms  25.279 ms
+ 8  be-31621-cs02.pittsburgh.pa.ibone.comcast.net (96.110.42.165)  26.656 ms be-31631-cs03.pittsburgh.pa.ibone.comcast.net (96.110.42.169)  26.638 ms be-31621-cs02.pittsburgh.pa.ibone.comcast.net (96.110.42.165)  26.627 ms
+ 9  be-1111-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.130)  19.640 ms be-1211-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.134)  26.654 ms be-1411-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.142)  26.645 ms
+10  be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  30.919 ms be-304-cr12.beaumeade.va.ibone.comcast.net (96.110.39.149)  30.866 ms be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  30.901 ms
+11  be-1112-cs01.beaumeade.va.ibone.comcast.net (68.86.84.145)  37.717 ms be-1312-cs03.beaumeade.va.ibone.comcast.net (68.86.84.153)  37.708 ms be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  37.699 ms
+12  be-3111-pe11.ashburn.va.ibone.comcast.net (96.110.32.122)  34.606 ms be-3311-pe11.ashburn.va.ibone.comcast.net (96.110.32.130)  34.560 ms be-3211-pe11.ashburn.va.ibone.comcast.net (96.110.32.126)  33.545 ms
+13  50.248.119.26 (50.248.119.26)  61.946 ms  43.254 ms  24.663 ms
+14  ip4.gtt.net (98.124.190.162)  33.153 ms  33.136 ms  33.122 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,14 @@
+traceroute to www.yahoo.com (69.147.92.11), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  1.381 ms  1.279 ms  0.937 ms
+ 2  10.0.0.1 (10.0.0.1)  19.408 ms  19.344 ms  19.288 ms
+ 3  96.120.62.169 (96.120.62.169)  19.226 ms  26.041 ms  25.371 ms
+ 4  po-306-1233-rur201.pittsburgh.pa.pitt.comcast.net (96.110.215.125)  25.286 ms  25.229 ms  25.173 ms
+ 5  po-2-rur202.pittsburgh.pa.pitt.comcast.net (162.151.152.210)  25.119 ms  25.066 ms  24.950 ms
+ 6  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  23.926 ms  19.735 ms  19.657 ms
+ 7  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  21.375 ms  17.444 ms  23.958 ms
+ 8  * * *
+ 9  * * *
+10  YAHOO-INC.ear3.Washington1.Level3.net (4.16.246.238)  44.359 ms YAHOO-INC.ear2.Washington1.Level3.net (4.16.243.114)  39.552 ms YAHOO-INC.ear3.Washington1.Level3.net (4.16.246.238)  44.249 ms
+11  et31.bas4-1-edg.dca.yahoo.com (74.6.225.175)  34.425 ms et35.bas4-1-edg.dca.yahoo.com (74.6.225.167)  34.372 ms et36.bas3-1-edg.dca.yahoo.com (74.6.225.153)  34.323 ms
+12  et33.usw1-1-edg.dca.yahoo.com (209.73.184.51)  33.966 ms et34.usw1-1-edg.dca.yahoo.com (209.73.184.53)  33.701 ms et32.usw1-1-edg.dca.yahoo.com (209.73.184.61)  31.270 ms
+13  e1.ycpi.vip.dca.yahoo.com (69.147.92.11)  31.204 ms  27.740 ms  27.666 ms

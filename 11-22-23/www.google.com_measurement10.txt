@@ -1,0 +1,28 @@
+traceroute to www.google.com (142.251.167.147), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  0.739 ms  0.706 ms  0.691 ms
+ 2  10.0.0.1 (10.0.0.1)  11.080 ms  11.064 ms  11.050 ms
+ 3  96.120.62.169 (96.120.62.169)  24.108 ms  24.093 ms  19.282 ms
+ 4  po-306-1234-rur202.pittsburgh.pa.pitt.comcast.net (96.110.215.137)  28.955 ms  28.925 ms  28.905 ms
+ 5  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  28.890 ms  28.877 ms  28.862 ms
+ 6  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  25.484 ms  21.989 ms  21.962 ms
+ 7  be-31611-cs01.pittsburgh.pa.ibone.comcast.net (96.110.42.161)  25.310 ms  25.483 ms be-31631-cs03.pittsburgh.pa.ibone.comcast.net (96.110.42.169)  21.344 ms
+ 8  be-1111-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.130)  25.434 ms be-1211-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.134)  21.848 ms be-1411-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.142)  21.822 ms
+ 9  be-303-cr12.beaumeade.va.ibone.comcast.net (96.110.39.145)  27.781 ms be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  21.794 ms  27.695 ms
+10  be-1412-cs04.beaumeade.va.ibone.comcast.net (68.86.84.157)  33.955 ms be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  33.932 ms be-1412-cs04.beaumeade.va.ibone.comcast.net (68.86.84.157)  33.910 ms
+11  be-3411-pe11.ashburn.va.ibone.comcast.net (96.110.32.134)  29.925 ms be-3111-pe11.ashburn.va.ibone.comcast.net (96.110.32.122)  29.908 ms be-3107-pe07.ashburn.va.ibone.comcast.net (96.110.32.186)  29.888 ms
+12  66.208.216.230 (66.208.216.230)  33.685 ms 71.25.197.130 (71.25.197.130)  33.612 ms 50.208.232.70 (50.208.232.70)  31.890 ms
+13  * * 108.170.246.67 (108.170.246.67)  34.017 ms
+14  142.251.67.234 (142.251.67.234)  33.992 ms 142.251.70.112 (142.251.70.112)  35.704 ms 142.251.49.23 (142.251.49.23)  36.077 ms
+15  142.251.226.101 (142.251.226.101)  32.840 ms * 108.170.240.98 (108.170.240.98)  24.748 ms
+16  142.250.210.246 (142.250.210.246)  30.631 ms 216.239.49.197 (216.239.49.197)  30.617 ms 142.251.244.194 (142.251.244.194)  30.603 ms
+17  * 142.250.238.5 (142.250.238.5)  30.575 ms 216.239.62.173 (216.239.62.173)  30.562 ms
+18  216.239.57.97 (216.239.57.97)  28.026 ms * 142.250.211.50 (142.250.211.50)  35.147 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * ww-in-f147.1e100.net (142.251.167.147)  32.689 ms

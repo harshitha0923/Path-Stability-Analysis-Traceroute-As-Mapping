@@ -1,0 +1,31 @@
+traceroute to www.pitt.edu (146.75.38.133), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  1.024 ms  0.941 ms  1.265 ms
+ 2  10.0.0.1 (10.0.0.1)  11.832 ms  11.784 ms  11.744 ms
+ 3  96.120.62.169 (96.120.62.169)  37.593 ms  37.553 ms  37.512 ms
+ 4  po-306-1234-rur202.pittsburgh.pa.pitt.comcast.net (96.110.215.137)  37.985 ms  37.943 ms  37.904 ms
+ 5  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  37.855 ms  37.719 ms  37.665 ms
+ 6  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  37.627 ms  28.872 ms  28.795 ms
+ 7  be-31621-cs02.pittsburgh.pa.ibone.comcast.net (96.110.42.165)  27.481 ms be-31631-cs03.pittsburgh.pa.ibone.comcast.net (96.110.42.169)  25.758 ms be-31641-cs04.pittsburgh.pa.ibone.comcast.net (96.110.42.173)  25.699 ms
+ 8  be-1111-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.130)  25.678 ms be-1311-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.138)  61.162 ms be-1411-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.142)  68.385 ms
+ 9  be-303-cr12.beaumeade.va.ibone.comcast.net (96.110.39.145)  71.233 ms be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  71.224 ms be-304-cr12.beaumeade.va.ibone.comcast.net (96.110.39.149)  71.367 ms
+10  be-1412-cs04.beaumeade.va.ibone.comcast.net (68.86.84.157)  76.774 ms be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  76.762 ms be-1312-cs03.beaumeade.va.ibone.comcast.net (68.86.84.153)  75.128 ms
+11  be-3412-pe12.ashburn.va.ibone.comcast.net (96.110.34.126)  76.737 ms be-3312-pe12.ashburn.va.ibone.comcast.net (96.110.34.122)  76.725 ms be-3311-pe11.ashburn.va.ibone.comcast.net (96.110.32.130)  71.079 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

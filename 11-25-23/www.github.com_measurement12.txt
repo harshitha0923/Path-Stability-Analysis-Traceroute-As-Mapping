@@ -1,0 +1,31 @@
+traceroute to www.github.com (140.82.114.4), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  2.443 ms  2.336 ms  2.088 ms
+ 2  10.0.0.1 (10.0.0.1)  11.567 ms  10.505 ms  10.451 ms
+ 3  96.120.62.169 (96.120.62.169)  21.533 ms  27.832 ms  27.774 ms
+ 4  po-306-1233-rur201.pittsburgh.pa.pitt.comcast.net (96.110.215.125)  31.861 ms  31.739 ms  31.665 ms
+ 5  po-2-rur202.pittsburgh.pa.pitt.comcast.net (162.151.152.210)  31.653 ms  31.546 ms  31.530 ms
+ 6  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  31.672 ms  23.008 ms  22.930 ms
+ 7  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  22.877 ms  21.718 ms  21.656 ms
+ 8  be-31621-cs02.pittsburgh.pa.ibone.comcast.net (96.110.42.165)  16.052 ms  24.963 ms  31.811 ms
+ 9  be-1211-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.134)  31.768 ms  31.725 ms be-1311-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.138)  31.686 ms
+10  be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  36.109 ms be-303-cr12.beaumeade.va.ibone.comcast.net (96.110.39.145)  35.805 ms be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  36.025 ms
+11  be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  41.559 ms be-1412-cs04.beaumeade.va.ibone.comcast.net (68.86.84.157)  41.516 ms be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  41.473 ms
+12  be-3311-pe11.ashburn.va.ibone.comcast.net (96.110.32.130)  38.982 ms  38.896 ms  38.857 ms
+13  50.248.119.26 (50.248.119.26)  38.814 ms  34.172 ms  26.941 ms
+14  ip4.gtt.net (98.124.190.162)  30.601 ms  27.146 ms  30.485 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,29 @@
+traceroute to www.google.com (172.253.62.104), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  0.912 ms  0.865 ms  0.848 ms
+ 2  10.0.0.1 (10.0.0.1)  15.963 ms  15.947 ms  15.935 ms
+ 3  96.120.62.169 (96.120.62.169)  24.439 ms  19.146 ms  24.408 ms
+ 4  po-306-1233-rur201.pittsburgh.pa.pitt.comcast.net (96.110.215.125)  24.464 ms  24.450 ms  24.382 ms
+ 5  po-2-rur202.pittsburgh.pa.pitt.comcast.net (162.151.152.210)  24.351 ms  24.338 ms  24.324 ms
+ 6  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  24.375 ms  21.752 ms  21.745 ms
+ 7  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  27.197 ms  17.343 ms  17.313 ms
+ 8  be-31631-cs03.pittsburgh.pa.ibone.comcast.net (96.110.42.169)  22.326 ms be-31611-cs01.pittsburgh.pa.ibone.comcast.net (96.110.42.161)  27.587 ms be-31631-cs03.pittsburgh.pa.ibone.comcast.net (96.110.42.169)  27.563 ms
+ 9  be-1111-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.130)  27.548 ms be-1311-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.138)  27.534 ms be-1211-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.134)  27.466 ms
+10  be-303-cr12.beaumeade.va.ibone.comcast.net (96.110.39.145)  35.549 ms be-301-cr12.beaumeade.va.ibone.comcast.net (96.110.39.165)  35.494 ms be-304-cr12.beaumeade.va.ibone.comcast.net (96.110.39.149)  27.417 ms
+11  be-1112-cs01.beaumeade.va.ibone.comcast.net (68.86.84.145)  40.278 ms be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  40.264 ms  40.249 ms
+12  be-3413-pe13.ashburn.va.ibone.comcast.net (68.86.166.222)  40.534 ms be-3404-pe04.ashburn.va.ibone.comcast.net (96.110.37.142)  35.447 ms be-3304-pe04.ashburn.va.ibone.comcast.net (96.110.37.138)  32.317 ms
+13  50.248.116.190 (50.248.116.190)  32.297 ms 50.208.232.70 (50.208.232.70)  32.282 ms  33.276 ms
+14  * * *
+15  142.251.49.73 (142.251.49.73)  43.122 ms 142.251.70.112 (142.251.70.112)  43.106 ms 216.239.50.93 (216.239.50.93)  38.021 ms
+16  142.251.226.101 (142.251.226.101)  41.605 ms 108.170.246.2 (108.170.246.2)  35.075 ms 142.251.237.185 (142.251.237.185)  40.191 ms
+17  142.251.244.140 (142.251.244.140)  40.144 ms 209.85.252.200 (209.85.252.200)  29.590 ms 142.251.244.140 (142.251.244.140)  34.254 ms
+18  142.250.215.195 (142.250.215.195)  36.350 ms  36.334 ms *
+19  * * 142.251.244.140 (142.251.244.140)  31.842 ms
+20  209.85.250.79 (209.85.250.79)  31.829 ms 142.251.245.105 (142.251.245.105)  27.493 ms *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  bc-in-f104.1e100.net (172.253.62.104)  32.823 ms *  32.627 ms

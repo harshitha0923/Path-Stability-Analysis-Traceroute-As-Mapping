@@ -1,0 +1,22 @@
+traceroute to www.google.com (142.250.65.196), 30 hops max, 60 byte packets
+ 1  DESKTOP-TQNIJKG.mshome.net (172.25.192.1)  1.923 ms  1.814 ms  1.754 ms
+ 2  10.0.0.1 (10.0.0.1)  17.452 ms  17.386 ms  17.334 ms
+ 3  96.120.62.169 (96.120.62.169)  30.303 ms  30.251 ms  30.196 ms
+ 4  po-306-1233-rur201.pittsburgh.pa.pitt.comcast.net (96.110.215.125)  30.146 ms  30.098 ms  30.047 ms
+ 5  po-2-rur202.pittsburgh.pa.pitt.comcast.net (162.151.152.210)  30.317 ms  29.867 ms  30.069 ms
+ 6  po-200-xar02.pittsburgh.pa.pitt.comcast.net (96.110.120.93)  30.010 ms  21.654 ms  21.589 ms
+ 7  be-22-ar01.mckeesport.pa.pitt.comcast.net (162.151.65.5)  21.645 ms  23.513 ms  23.470 ms
+ 8  be-31621-cs02.pittsburgh.pa.ibone.comcast.net (96.110.42.165)  17.847 ms be-31641-cs04.pittsburgh.pa.ibone.comcast.net (96.110.42.173)  18.756 ms be-31611-cs01.pittsburgh.pa.ibone.comcast.net (96.110.42.161)  24.509 ms
+ 9  be-1411-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.142)  24.470 ms be-1311-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.138)  24.425 ms be-1211-cr11.pittsburgh.pa.ibone.comcast.net (96.110.38.134)  24.383 ms
+10  be-303-cr12.beaumeade.va.ibone.comcast.net (96.110.39.145)  28.444 ms be-304-cr12.beaumeade.va.ibone.comcast.net (96.110.39.149)  28.276 ms be-302-cr12.beaumeade.va.ibone.comcast.net (96.110.32.101)  28.395 ms
+11  be-1312-cs03.beaumeade.va.ibone.comcast.net (68.86.84.153)  38.463 ms be-1212-cs02.beaumeade.va.ibone.comcast.net (68.86.84.149)  34.179 ms be-1412-cs04.beaumeade.va.ibone.comcast.net (68.86.84.157)  38.382 ms
+12  be-3313-pe13.ashburn.va.ibone.comcast.net (68.86.166.218)  38.335 ms be-3407-pe07.ashburn.va.ibone.comcast.net (96.110.32.198)  32.211 ms be-3412-pe12.ashburn.va.ibone.comcast.net (96.110.34.126)  28.927 ms
+13  71.25.197.130 (71.25.197.130)  29.590 ms 96-87-10-106-static.hfc.comcastbusiness.net (96.87.10.106)  32.029 ms 66.208.216.230 (66.208.216.230)  24.566 ms
+14  * * 108.170.246.3 (108.170.246.3)  31.761 ms
+15  142.251.49.189 (142.251.49.189)  31.701 ms 142.251.70.112 (142.251.70.112)  24.890 ms 108.170.246.33 (108.170.246.33)  28.795 ms
+16  108.170.246.3 (108.170.246.3)  28.778 ms  28.766 ms 108.170.240.98 (108.170.240.98)  24.810 ms
+17  142.251.49.155 (142.251.49.155)  28.731 ms 142.251.49.75 (142.251.49.75)  24.783 ms 209.85.254.238 (209.85.254.238)  54.975 ms
+18  108.170.248.65 (108.170.248.65)  28.699 ms 108.170.248.1 (108.170.248.1)  28.688 ms 108.170.248.65 (108.170.248.65)  28.679 ms
+19  142.251.60.239 (142.251.60.239)  28.042 ms 216.239.56.16 (216.239.56.16)  25.870 ms 142.251.69.58 (142.251.69.58)  30.614 ms
+20  108.170.248.1 (108.170.248.1)  30.599 ms 108.170.248.65 (108.170.248.65)  27.993 ms  38.831 ms
+21  142.251.60.239 (142.251.60.239)  38.349 ms 142.251.60.237 (142.251.60.237)  38.318 ms lga25s72-in-f4.1e100.net (142.250.65.196)  38.680 ms
